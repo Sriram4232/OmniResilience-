@@ -4,7 +4,7 @@ import { Activity, AlertTriangle, Package, Zap, X, BrainCircuit, Box } from 'luc
 import ReactMarkdown from 'react-markdown';
 import './index.css';
 
-const API_BASE = 'http://localhost:8000/api';
+const API_BASE = process.env.REACT_APP_API_BASE || 'http://localhost:8000/api';
 
 function App() {
   const [inventory, setInventory] = useState([]);
