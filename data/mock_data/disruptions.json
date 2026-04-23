@@ -1,0 +1,17 @@
+[
+  {
+    "signal_id": "S101",
+    "source": "Logistics News API",
+    "timestamp": "2026-04-21T08:00:00Z",
+    "content": "A major strike at the Port of Long Beach is causing significant delays. Shipments from Taiwan and China, specifically impacting WearableTech Corp, are delayed by 3-4 weeks.",
+    "severity": "High",
+    "status": "Active"
+  },
+  {
+    "source": "Supplier Email",
+    "timestamp": "2026-04-20T14:30:00Z",
+    "content": "Due to unexpected unseasonably warm weather trends predicted for Q4, our initial analysis shows a massive drop in winter gear demand. NorthWinds Garments advises cautionary stock limits.",
+    "severity": "Medium",
+    "status": "Active"
+  }
+]

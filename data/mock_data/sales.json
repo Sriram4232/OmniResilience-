@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Wireless Noise-Canceling Headphones",
+    "category": "Electronics",
+    "current_stock": 150,
+    "reorder_point": 50,
+    "demand_forecast": "Stable",
+    "supplier": "TechAcoustics Inc."
+  },
+  {
+    "product_id": "P002",
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "current_stock": 30,
+    "reorder_point": 100,
+    "demand_forecast": "High",
+    "supplier": "WearableTech Corp"
+  },
+  {
+    "product_id": "P003",
+    "name": "Winter Parka",
+    "category": "Apparel",
+    "current_stock": 500,
+    "reorder_point": 100,
+    "demand_forecast": "Low",
+    "supplier": "NorthWinds Garments"
+  },
+  {
+    "product_id": "P004",
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "current_stock": 80,
+    "reorder_point": 40,
+    "demand_forecast": "Stable",
+    "supplier": "OfficePro Supplies"
+  }
+]
